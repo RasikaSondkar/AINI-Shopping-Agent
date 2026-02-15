@@ -23,7 +23,3 @@ AINI is a Python-based intelligent shopping assistant that compares product pric
 - Smartwatch
 - Headphones
 
-## ▶️ How to Run
-
-1. Clone the repository
-2. Install dependencies:
