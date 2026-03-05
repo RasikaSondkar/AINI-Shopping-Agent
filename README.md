@@ -74,6 +74,9 @@ pip install streamlit groq python-dotenv
 
 ---
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/08827db4-f4df-4b24-8f08-d2bba066d9f5" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ebadd0fd-5bbc-4180-8fd0-18689f28b0a0" />
+
+
 
 
 
